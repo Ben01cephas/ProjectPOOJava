@@ -1,6 +1,7 @@
 
 public abstract class User {
   id= 0, 
-  nom="diallo"
+  nom="diallo",
+  age = 18
 
 }
